@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./osnabrckerurkun00brgoog/osnabrckerurkun00brgoog_0085.png"; bbox 0 0 4250 6109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1799 4219 2438 4365">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1799 4219 2340 4365">
+     <span class='ocr_line' id='line_1_1' title="bbox 1799 4257 2293 4365; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 2146 4292 2293 4359; x_wconf 38' lang='lat'><em>3:02]-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2004 4257 2156 4365; x_wconf 39' lang='grc' dir='ltr'><em>....ᾟἫὴ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2004 4331 2028 4350; x_wconf 63' lang='lat' dir='ltr'><em>t</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1962 4276 2005 4342; x_wconf 66' lang='grc'><em>......</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1799 4276 1808 4304; x_wconf 94' lang='grc'><em>..</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1840 4219 2438 4356; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 2268 4220 2438 4356; x_wconf 41' lang='lat' dir='ltr'><em>‘W</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2236 4260 2250 4278; x_wconf 70' lang='lat' dir='ltr'><em>A</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2125 4248 2213 4287; x_wconf 50' lang='grc' dir='ltr'><em>ὯΦΓ*</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2070 4259 2085 4289; x_wconf 43' lang='grc' dir='ltr'><em>...π</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1979 4266 1986 4276; x_wconf 77' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1919 4219 1932 4231; x_wconf 69' lang='grc'><em>«,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1840 4263 1848 4265; x_wconf 57' lang='lat'><em>2</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 4244 6100">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 4244 6100">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 4244 6100; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 4244 6100; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
